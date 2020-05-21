@@ -1,3 +1,5 @@
+This is a static chat app i created with React forpractice(Who knows it might get big someday :) )
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
